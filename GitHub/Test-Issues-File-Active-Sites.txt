@@ -1,8 +1,0 @@
-Agency		Center	                            Center Search Status    Facility	                             Occupied		Status			Record Date	Last Update	Address			City			State	ZIP		Country
-1	DOD	Air Force Research Laboratory		Public		   Mach 6, High Reynolds Number Facility	1960		Under Rehabilitation    3/1/96		9/9/13		1864 4th St		Wright-Patterson AFB	OH	45433-7541	US
-2	DOD	Air Force Research Laboratory	        Public	           Subsonic Aerodynamic Research Laboratory	1985		Active			3/1/96		9/9/13		1864 4th St		Wright-Patterson AFB	OH	45433-7541	US
-3	DOD	Air Force Research Laboratory	        Public	           Trisonic Gasdynamics Facility		1960		Active			3/1/96		9/9/13		1864 4th St		Wright-Patterson AFB	OH	45433-7541	US
-4	DOD	Air Force Research Laboratory	        Public	           Vertical Wind Tunnel				1960		Active			3/1/96		9/9/13		1864 4th St		Wright-Patterson AFB	OH	45433-7541	US
-5	DOD	Arnold Engineering Development Center	Public	           10V Test Chamber				1965		Active			3/1/96		8/23/13		100 Kindel Dr, MS-1214	Arnold AFB		TN	37389-1214	US
-6	DOD	Arneld Engineering Development Center	Public	           7V Sensor Test Facility			1994		Active			3/1/96		9/19/12		100 Kindel Dr, MS-1214	Arnold AFB		TN	37389-1214	US
-7	DOD	Arnold Engineering Development Center	Public	           Mark I Aerospace Chamber			1963		Inactive		3/1/96		9/19/12		100 Kindel Dr, MS-1214	Arnold AFB		TN	37389-1214	US
